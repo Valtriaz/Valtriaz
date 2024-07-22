@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: LOVE WATER sports and Adrenaline heavy activitis
 
-<img alt="GitHub Snake" src="docker/github-contribution-grid-snake-dark.svg" />
+<img alt="GitHub Snake" src="(https://raw.githubusercontent.com/Valtriaz/Valtriaz/docker/github-contribution-grid-snake-dark.svg)" />
