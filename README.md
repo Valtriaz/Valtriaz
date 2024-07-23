@@ -8,5 +8,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: LOVE WATER sports and Adrenaline heavy activitis
 
-  ![Valtriaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=dark_icons=true)
+  ![Valtriaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=dark&show_icons=true)
   ![Snake animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
