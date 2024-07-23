@@ -8,3 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: LOVE WATER sports and Adrenaline heavy activitis
 
+  ![Snake animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
