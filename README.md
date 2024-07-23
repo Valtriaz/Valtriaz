@@ -1,5 +1,3 @@
-##What I'm up to!!
-
 - 👋 Hi, I’m @Valtriaz
 - 👀 I’m interested in Web and Game Development, Quantum Physics
 - 🌱 I’m currently learning Ruby, Pen Testing, SQL
