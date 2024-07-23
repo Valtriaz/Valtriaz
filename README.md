@@ -8,5 +8,5 @@
 - ⚡ Fun fact: LOVE WATER sports and Adrenaline heavy activitis
 
   ![Valtriaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=dark&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valtriaz&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valtriaz&theme=dark&layout=compact)
   ![Snake animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
