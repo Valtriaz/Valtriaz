@@ -9,7 +9,7 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 
 ## 🚀 A Bit About Me!!
 
-- 💻 **Languages I Use**:
+- 💻 **Languages & Tools I Use**:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
