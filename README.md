@@ -21,7 +21,8 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-- ⛱️Things I like to do:- Water Sports, Adrenaline Heavy Activities and Gaming!!
+
+- ⛱️**Things I Like To Do**:- **Water Sports**, **Adrenaline Heavy Activities** and **Gaming**!!
 
 ## 📈 My Github Stats!!
 
