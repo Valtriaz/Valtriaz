@@ -24,6 +24,11 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 
 - ⛱️**Things I Like To Do**:- **Water Sports**, **Adrenaline Heavy Activities** and **Gaming**!!
 
+## ✨Fun Facts!!
+
+- A Techsavy guy
+- I Love 🍫🍫
+
 ## 📈 My Github Stats!!
 
   ![Valtriaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=dark&show_icons=true)
