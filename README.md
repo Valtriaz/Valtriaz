@@ -31,8 +31,14 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 
 ## ✉️ Contact Me!!
 
-- 📧Email: valtriaz@gmail.com
-- 💬Discord: Discord
+<div id="badges">
+  <a href="valtriaz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rachit-rathi-267282301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ## 📈 My Github Stats!!
 
