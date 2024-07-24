@@ -5,7 +5,7 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 ## 🌟 What I'm Up To!!
 
 - 🌱 Mastering the art of **Pentesting**
-- 📚 Studying for JEE exam
+- 📚 Studying for **JEE exam**
 
 ## 🚀 A Bit About Me!!
 
@@ -33,9 +33,9 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 
 ## ✨Fun Facts!!
 
-- A Techsavy guy who loved Quantum Physics!!
-- I Love 🍫🍫
-- 👨‍🍳Like doin cooking aswell!!
+- A Techsavy guy who loves **Quantum Physics**!!
+- I Love **🍫🍫**
+- 👨‍🍳Like doin **cooking** aswell!!
 
 ## ✉️ Contact Me!!
 
