@@ -29,6 +29,11 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 - A Techsavy guy
 - I Love 🍫🍫
 
+## ✉️ Contact Me!!
+
+-📧Email: valtriaz@gmail.com
+-💬Discord: Discord
+
 ## 📈 My Github Stats!!
 
   ![Valtriaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=dark&show_icons=true)
