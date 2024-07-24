@@ -31,8 +31,8 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 
 ## ✉️ Contact Me!!
 
--📧Email: valtriaz@gmail.com
--💬Discord: Discord
+- 📧Email: valtriaz@gmail.com
+- 💬Discord: Discord
 
 ## 📈 My Github Stats!!
 
