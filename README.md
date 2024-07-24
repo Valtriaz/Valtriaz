@@ -33,8 +33,9 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 
 ## ✨Fun Facts!!
 
-- A Techsavy guy
+- A Techsavy guy who loved Quantum Physics!!
 - I Love 🍫🍫
+- 👨‍🍳Like doin cooking aswell!!
 
 ## ✉️ Contact Me!!
 
