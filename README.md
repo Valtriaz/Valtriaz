@@ -54,4 +54,4 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 
   ![Valtriaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=dark&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valtriaz&theme=dark&layout=compact)
-  ![Snake animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
+  ![Snake Animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
