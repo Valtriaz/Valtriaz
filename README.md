@@ -2,12 +2,12 @@
 
 Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecurity and digital forensics.
 
-## 🌟 What I'm Up To!!
+## 🌟 What I'm Up To!
 
 - 🌱 Mastering the art of **Pentesting**
 - 📚 Studying for **JEE exam**
 
-## 🚀 A Bit About Me!!
+## 🚀 A Bit About Me!
 
 - 💻 **Languages & Tools I Use**:
 <div>
@@ -31,13 +31,13 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 
 - ⛱️**Things I Like To Do**:- **Water Sports**, **Adrenaline Heavy Activities** and **Gaming**!!
 
-## ✨Fun Facts!!
+## ✨Fun Facts!
 
 - A Techsavy guy who loves **Quantum Physics**!!
 - I Love **🍫🍫**
 - 👨‍🍳Like doin **cooking** aswell!!
 
-## ✉️ Contact Me!!
+## ✉️ Contact Me!
 
 <div id="badges">
   <a href="valtriaz@gmail.com">
@@ -50,7 +50,7 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 ![Discord Badge](https://img.shields.io/badge/Discord-Valtriaz-blue.svg)
 </div>
 
-## 📈 My Github Stats!!
+## 📈 My Github Stats!
 
   ![Valtriaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=dark&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valtriaz&theme=dark&layout=compact)
