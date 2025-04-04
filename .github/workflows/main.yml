@@ -2,6 +2,9 @@ name: manual run
 
 on:
   workflow_dispatch:
+  on:
+    # every 6 hour
+    - cron: "0 */6 * * *"
 
 jobs:
   generate:
