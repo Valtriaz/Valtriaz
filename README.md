@@ -5,7 +5,7 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
 ## 🌟 What I'm Up To!
 
 - 🌱 Mastering the art of **Pentesting**
-- 📚 Studying for **JEE exam**.
+- 📚 In **DY Patil University**.
 
 ## 🚀 A Bit About Me!
 
