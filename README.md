@@ -50,6 +50,8 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
 - 🧠 OSINT & Threat Intelligence
 - 💣 Keyloggers, Payloads, and Ethical Malware
 
+## 💼 [Projects](https://github.com/Valtriaz/Valtriaz/blob/f6c82c62819a30fefdcb7225a7dc21ce2f54f36e/PROJECTS.md)
+
 ## ✨Fun Facts!
 
 - A Techsavy guy who loves **Quantum Physics**!!
