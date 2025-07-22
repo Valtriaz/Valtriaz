@@ -1,15 +1,16 @@
-# Valtriaz💻
+# 💻 Valtriaz
+*Cybersecurity Enthusiast • Pentesting In Progress • Gamer*
 
-Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecurity and digital forensics.
+Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed with all things cyber — from red teaming to zero-days.Dedicating every bit of spare time to cracking CTFs, learning **Advanced Hacking** and **Cyber Security**.
 
 ## 🌟 What I'm Up To!
 
 - 🌱 Mastering the art of **Pentesting**
 - 📚 In **DY Patil University**.
 
-## 🚀 A Bit About Me!
+## 🛠️ Skills & Tools
 
-- 💻 **Languages & Tools I Use**:
+- **Languages & Frameworks**:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -18,15 +19,18 @@ Hey there! I'm Rachit, an aspiring hacker delving into the realms of cybersecuri
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="csharp" width="40" height="40"/>&nbsp;
+</div>
+
+- **Dev Tools & OS:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS-Code" alt="vs-code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt=bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-plain.svg" tittle="Zsh" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 - ⛱️**Things I Like To Do**:- **Water Sports**, **Adrenaline Heavy Activities** and **Gaming**!!
