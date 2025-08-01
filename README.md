@@ -52,28 +52,25 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
 
 ## 💼 [Projects](https://github.com/Valtriaz/Valtriaz/blob/f6c82c62819a30fefdcb7225a7dc21ce2f54f36e/PROJECTS.md)
 
-## ✨Fun Facts!
+## 🎮 Outside the Terminal
 
-- A Techsavy guy who loves **Quantum Physics**!!
+- 🔹 Apex Legends, Valorant, and EVE Online
+- 🌊 Adrenaline Heavy Activities
 
 ## ✉️ Contact Me!
 
 <div id="badges">
-  <a href="valtriaz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rachit-rathi-267282301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/valtriaz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-
-![Discord Badge](https://img.shields.io/badge/Discord-Valtriaz-blue.svg)
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valtriaz@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/valtriaz/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-rathi-267282301/)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/valtriaz)
+  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/valtriaz)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@valtriaz)
+  ![Discord Badge](https://img.shields.io/badge/Discord-Valtriaz-blue.svg)
 </div>
 
 ## 📈 My Github Stats!
   <img src="https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=highcontrast&show_icons=true" title="GithubStats" alt="GithubStats" height="190"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtriaz&theme=highcontrast&layout=donut" title="TopLangs" alt="TopLangs" height="190"/>
   ![Snake Animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Valtriaz&theme=discord)
