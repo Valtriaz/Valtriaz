@@ -7,7 +7,7 @@
 | **[Hash‑Harvest](https://hashharvest.netlify.app)** | A basic crypto clicker web game! | ✅ [Complete](https://github.com/Valtriaz/Hash-Harvest) |
 | **[Blackjack](https://github.com/Valtriaz/Blackjack)** | A Blackjack game build in Python! | ✅ Complete |
 | **[Reconnaissance-Framework](https://github.com/Valtriaz/Reconnaissance-Framework)** | A Framework for automating reconnaissance of pen testing! | ⚙️ Active |
-| **[Code Forces](https://codeforces.com/profile/Valtriaz)** | Solved Codeforces Questions! | 🎯 [Solution](https://github.com/Valtriaz/CodeForces) |
+| **[Code Forces](https://codeforces.com/profile/R4ch1t_07)** | Solved Codeforces Questions! | 🎯 [Solution](https://github.com/Valtriaz/CodeForces) |
 | **[Keylogger](https://github.com/Valtriaz/Keylogger)** | Python-based logger (educational only!) | ⚠️ For learning only |
 
 > Wanna collab? Fork any of these and let’s build them together.
