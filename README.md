@@ -1,5 +1,5 @@
-# 💻 Valtriaz
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGd6W_PSKUhDA/profile-displaybackgroundimage-shrink_350_1400/B56Zj8zDOXHcAc-/0/1756587899521?e=1759363200&v=beta&t=okVm21xCuSfoFbNat7VjgnfK0wQ7V4YIDmRgDzsRV3o" tittle="Banner" alt="Banner"/>
+
 *Cybersecurity Enthusiast • Pentesting In Progress • Gamer*
 
 Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed with all things cyber — from red teaming to zero-days.Dedicating every bit of spare time to cracking CTFs, learning **Advanced Hacking** and **Cyber Security**.
