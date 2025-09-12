@@ -68,7 +68,7 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/valtriaz)
   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/valtriaz)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@valtriaz)
-  ![Discord Badge](https://img.shields.io/badge/Discord-Valtriaz-blue.svg)
+  [![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/908741608273510411)
 </div>
 
 ## 📈 My Github Stats!
