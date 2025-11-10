@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGd6W_PSKUhDA/profile-displaybackgroundimage-shrink_350_1400/B56Zj8zDOXHcAc-/0/1756587899521?e=1762387200&v=beta&t=mFcLyK0KG3Jd4pie2nQ1wyZBWTTdKhM7RVrcyRXt60M" tittle="Banner" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/Valtriaz/Library/main/Rachit-LinkedIn-Banner.png" tittle="Banner" alt="Banner"/>
 
 *Cybersecurity Enthusiast • Pentesting In Progress • Gamer*
 
