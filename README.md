@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Valtriaz/Library/main/Rachit-LinkedIn-Banner.png" tittle="Banner" alt="Banner"/>
 
-*Cybersecurity Enthusiast • Pentesting In Progress • Gamer*
+*Cybersecurity Enthusiast • Pentesting In Progress • Founder*
 
 Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed with all things cyber — from red teaming to zero-days.Dedicating every bit of spare time to cracking CTFs, learning **Advanced Hacking** and **Cyber Security**.
 
