@@ -14,8 +14,8 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
 - **Certifications**:
 
 <p align="center">
-  <a href="https://www.credential.net/c83c31e7-4793-43ff-9789-414fc1d44028#acc.ugAIEf3Y">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/160718587" width="120" height="120"/>&nbsp;
+  <a href="">
+  <img src="" width="120" height="120"/>&nbsp;
   </a>
 </p>
 
