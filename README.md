@@ -84,5 +84,3 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
   <img src="https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=highcontrast&show_icons=true" title="GithubStats" alt="GithubStats" height="190"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtriaz&theme=highcontrast&layout=donut" title="TopLangs" alt="TopLangs" height="190"/>
 </p>
-  
-![Snake Animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
