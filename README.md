@@ -78,9 +78,3 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@valtriaz)
   [![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/908741608273510411)
 </div>
-
-## 📈 My Github Stats!
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valtriaz&theme=highcontrast&show_icons=true" title="GithubStats" alt="GithubStats" height="190"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtriaz&theme=highcontrast&layout=donut" title="TopLangs" alt="TopLangs" height="190"/>
-</p>
