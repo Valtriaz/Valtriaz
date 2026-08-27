@@ -10,7 +10,7 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
 - 📚 In **DY Patil University**.
 
 ## 🛠️ Skills & Tools
-
+<!-- 
 - **Certifications**:
 
 <p align="center">
@@ -18,7 +18,7 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
   <img src="" width="120" height="120"/>&nbsp;
   </a>
 </p>
-
+-->
 - **Languages & Frameworks**:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -72,7 +72,7 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valtriaz@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/valtriaz/)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-rathi-267282301/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachitrathi/)
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/valtriaz)
   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/valtriaz)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@valtriaz)
