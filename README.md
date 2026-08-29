@@ -67,7 +67,7 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
 
 ## 🎮 Outside the Terminal
 
-- 🔹 Apex Legends, Valorant, and EVE Online
+- 🔹 EVE Online And Minecraft
 - 🌊 Adrenaline Heavy Activities
 
 ## ✉️ Contact Me!
