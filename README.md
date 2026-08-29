@@ -31,6 +31,9 @@ Hey there, I'm **Rachit**, better known online as **Valtriaz**. I’m obsessed w
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="https://yt3.googleusercontent.com/zw8v2o4QWfLas02Is-qhXl08HsPuOpDM-o4x7g-WViBeeCvVd-pxbXI6rW5dygvl_u5r598QGq0=s160-c-k-c0x00ffffff-no-rj" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4" title="ESP-IDF" alt="ESP-IDF" width="40" height="40"/>&nbsp;
+<!-- <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 </div>
 
 - **Dev Tools & OS:**
